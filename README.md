@@ -20,14 +20,18 @@ Welcome to my certifications repository! This space serves as a verified archive
 ### 🎨 Graphic Design & Video Editing
 | Certificate Name | Issuing Organization | Description | Verification Asset |
 | :--- | :--- | :--- | :--- |
-| **Graphic Design** | **DigiSkills.pk** | Validates advanced skills in visual communication, color theory, typography, and digital branding collateral. | [View Certificate](./certificates/graphic-designing.png) |
-| **Video Editing** | **DigiSkills.pk** | Covers non-linear video editing, cinematic storytelling, audio syncing, and post-production workflows. | [View Certificate](./certificates/video-editing.png) |
-| **IEEE Leadership Award** | **IEEE** | Recognizes operational management and design team leadership as Co-Head of Designs and Management. | [View Certificate](./certificates/ieee-cohead.jpeg) |
+| **Graphic Design** | **DigiSkills.pk** | Validates advanced skills in visual communication, color theory, typography, and digital branding collateral. | [View Certificate](./graphic%20design.pdf) |
+| **Video Editing** | **DigiSkills.pk** | Covers non-linear video editing, cinematic storytelling, audio syncing, and post-production workflows. | [View Certificate](./vedio%20vlogging.pdf) |
+
+### 🏛️ IEEE & Leadership
+| Certificate Name | Issuing Organization | Description | Verification Asset |
+| :--- | :--- | :--- | :--- |
+| **IEEE Leadership Award** | **IEEE** | Recognizes operational management and design team leadership as Co-Head of Designs and Management. | [View Certificate](./ieee%20certificate.jpeg) |
 
 ### 💼 Freelancing & Business
 | Certificate Name | Issuing Organization | Description | Verification Asset |
 | :--- | :--- | :--- | :--- |
-| **Freelancing** | **DigiSkills.pk** | Focuses on marketplace navigation, client communication, project bidding, and contract negotiation. | [View Certificate](./certificates/freelancing.png) |
+| **Freelancing** | **DigiSkills.pk** | Focuses on marketplace navigation, client communication, project bidding, and contract negotiation. | [View Certificate](./Freelancing.pdf) |
 
 ---
 
@@ -38,7 +42,11 @@ Welcome to my certifications repository! This space serves as a verified archive
 
 ---
 
-
-    ├── video-editing.png
-    ├── freelancing.png
-    └── ieee-cohead.jpeg
+## 📂 Repository Structure
+To navigate this repository easily, the files are organized as follows:
+```text
+├── README.md
+├── Freelancing.pdf
+├── graphic design.pdf
+├── ieee certificate.jpeg
+└── vedio vlogging.pdf
