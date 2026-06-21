@@ -1,30 +1,48 @@
-# 📜 Certificates & Experience Portfolio
+# 📜 Professional Certifications & Leadership Portfolio
 
-This repository contains my verified certificates and achievements in the fields of **Graphic Designing**, **Video Editing**, and **Leadership & Management** through IEEE PIEAS.
-
----
-
-## 🎯 Overview
-
-This portfolio showcases my professional growth and practical experience in creative and organizational domains, including freelancing work and leadership roles.
+Welcome to my certifications repository! This space serves as a verified archive of my professional growth, technical skill sets, and leadership contributions across graphic design, video editing, freelancing, and community management.
 
 ---
 
-## 🧑‍💻 Skills & Domains
+## 🚀 Featured Leadership Experience
 
-### 🎨 Graphic Designing
-- Freelancing certificate in Graphic Designing  
-- Experience in creating logos, social media posts, banners, and branding materials  
+### **IEEE Student Branch**
+**Role:** Co-Head of Designs and Management  
+* **Responsibilities:** * Led and managed a team of designers to create visual assets for university-level and national events.
+  * Coordinated cross-functional event planning, ensuring smooth execution of design deadlines and logistics.
+  * Maintained brand consistency across all official IEEE promotional materials.
 
-### 🎬 Video Editing
-- Certificate in Video Editing  
-- Skilled in editing short-form and long-form content, transitions, color grading, and storytelling  
+---
 
-### 🏛 IEEE PIEAS (Management Role)
-- Served as **Co-Head in Management Team**
-- Responsible for event planning, coordination, and team leadership
-- Experience in organizing technical and non-technical events
+## 🎓 Certificates Directory
+
+### 🎨 Graphic Design & Video Editing
+| Certificate Name | Issuing Organization | Verification Link / Asset |
+| :--- | :--- | :--- |
+| **Graphic Design Mastery** | *[e.g., Coursera / Udemy / Digiskills]* | [View Certificate](./certificates/graphic-design.pdf) |
+| **Advanced Video Editing & Post-Production** | *[e.g., Adobe / YouTube Academy]* | [View Certificate](./certificates/video-editing.pdf) |
+| **IEEE Leadership & Contribution Award** | **IEEE** | [View Certificate](./certificates/ieee-cohead.pdf) |
+
+### 💼 Freelancing & Business
+| Certificate Name | Issuing Organization | Verification Link / Asset |
+| :--- | :--- | :--- |
+| **Freelancing Prospects & Client Management** | *[e.g., DigiSkills / Fiverr Learn]* | [View Certificate](./certificates/freelancing.pdf) |
+
+---
+
+## 🛠️ Tools & Technologies Documented
+* **Design:** Adobe Photoshop, Adobe Illustrator, Canva, Figma
+* **Video Editing:** Adobe Premiere Pro, After Effects, CapCut
+* **Management:** Trello, Slack, Google Workspace, Team Leadership
 
 ---
 
 ## 📂 Repository Structure
+To navigate this repository easily, the files are organized as follows:
+```text
+├── README.md
+└── certificates/
+    ├── graphic-design.pdf
+    ├── video-editing.pdf
+    ├── freelancing.pdf
+    └── ieee-cohead.pdf
