@@ -19,14 +19,14 @@ Welcome to my certifications repository! This space serves as a verified archive
 ### 🎨 Graphic Design & Video Editing
 | Certificate Name | Issuing Organization | Verification Link / Asset |
 | :--- | :--- | :--- |
-| **Graphic Design Mastery** | *[e.g., Coursera / Udemy / Digiskills]* | [View Certificate](.graphic design.pdf) |
-| **Advanced Video Editing & Post-Production** | *[e.g., Adobe / YouTube Academy]* | [View Certificate](./certificates/video-editing.pdf) |
+| **Graphic Design Mastery** | *[Digiskills.pk]* | [View Certificate](.graphic design.pdf) |
+| **Advanced Video Editing & Post-Production** | *[Digiskills.pk]* | [View Certificate](./certificates/video-editing.pdf) |
 | **IEEE Leadership & Contribution Award** | **IEEE** | [View Certificate](./certificates/ieee-cohead.pdf) |
 
 ### 💼 Freelancing & Business
 | Certificate Name | Issuing Organization | Verification Link / Asset |
 | :--- | :--- | :--- |
-| **Freelancing Prospects & Client Management** | *[e.g., DigiSkills / Fiverr Learn]* | [View Certificate](./certificates/freelancing.pdf) |
+| **Freelancing Prospects & Client Management** | *Digiskills.pk* | [View Certificate](./certificates/freelancing.pdf) |
 
 ---
 
