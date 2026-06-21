@@ -8,7 +8,8 @@ Welcome to my certifications repository! This space serves as a verified archive
 
 ### **IEEE Student Branch**
 **Role:** Co-Head of Designs and Management  
-* **Responsibilities:** * Led and managed a team of designers to create visual assets for university-level and national events.
+* **Responsibilities:**
+  * Led and managed a team of designers to create visual assets for university-level and national events.
   * Coordinated cross-functional event planning, ensuring smooth execution of design deadlines and logistics.
   * Maintained brand consistency across all official IEEE promotional materials.
 
@@ -17,16 +18,16 @@ Welcome to my certifications repository! This space serves as a verified archive
 ## 🎓 Certificates Directory
 
 ### 🎨 Graphic Design & Video Editing
-| Certificate Name | Issuing Organization | Verification Link / Asset |
-| :--- | :--- | :--- |
-| **Graphic Design Mastery** | *[Digiskills.pk]* | [View Certificate](.graphic design.pdf) |
-| **Advanced Video Editing & Post-Production** | *[Digiskills.pk]* | [View Certificate](./certificates/video-editing.pdf) |
-| **IEEE Leadership & Contribution Award** | **IEEE** | [View Certificate](./certificates/ieee-cohead.pdf) |
+| Certificate Name | Issuing Organization | Description | Verification Asset |
+| :--- | :--- | :--- | :--- |
+| **Graphic Design** | **DigiSkills.pk** | Validates advanced skills in visual communication, color theory, typography, and digital branding collateral. | [View Certificate](./certificates/graphic-design.png) |
+| **Video Editing** | **DigiSkills.pk** | Covers non-linear video editing, cinematic storytelling, audio syncing, and post-production workflows. | [View Certificate](./certificates/video-editing.png) |
+| **IEEE Leadership Award** | **IEEE** | Recognizes operational management and design team leadership as Co-Head of Designs and Management. | [View Certificate](./certificates/ieee-cohead.jpeg) |
 
 ### 💼 Freelancing & Business
-| Certificate Name | Issuing Organization | Verification Link / Asset |
-| :--- | :--- | :--- |
-| **Freelancing Prospects & Client Management** | *Digiskills.pk* | [View Certificate](./certificates/freelancing.pdf) |
+| Certificate Name | Issuing Organization | Description | Verification Asset |
+| :--- | :--- | :--- | :--- |
+| **Freelancing** | **DigiSkills.pk** | Focuses on marketplace navigation, client communication, project bidding, and contract negotiation. | [View Certificate](./certificates/freelancing.png) |
 
 ---
 
@@ -38,3 +39,6 @@ Welcome to my certifications repository! This space serves as a verified archive
 ---
 
 
+    ├── video-editing.png
+    ├── freelancing.png
+    └── ieee-cohead.jpeg
