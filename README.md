@@ -20,7 +20,7 @@ Welcome to my certifications repository! This space serves as a verified archive
 ### 🎨 Graphic Design & Video Editing
 | Certificate Name | Issuing Organization | Description | Verification Asset |
 | :--- | :--- | :--- | :--- |
-| **Graphic Design** | **DigiSkills.pk** | Validates advanced skills in visual communication, color theory, typography, and digital branding collateral. | [View Certificate](./certificates/graphic-design.png) |
+| **Graphic Design** | **DigiSkills.pk** | Validates advanced skills in visual communication, color theory, typography, and digital branding collateral. | [View Certificate](./certificates/graphic-designing.png) |
 | **Video Editing** | **DigiSkills.pk** | Covers non-linear video editing, cinematic storytelling, audio syncing, and post-production workflows. | [View Certificate](./certificates/video-editing.png) |
 | **IEEE Leadership Award** | **IEEE** | Recognizes operational management and design team leadership as Co-Head of Designs and Management. | [View Certificate](./certificates/ieee-cohead.jpeg) |
 
