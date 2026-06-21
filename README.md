@@ -37,12 +37,4 @@ Welcome to my certifications repository! This space serves as a verified archive
 
 ---
 
-## 📂 Repository Structure
-To navigate this repository easily, the files are organized as follows:
-```text
-├── README.md
-└── certificates/
-    ├── graphic-design.pdf
-    ├── video-editing.pdf
-    ├── freelancing.pdf
-    └── ieee-cohead.pdf
+
