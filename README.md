@@ -19,7 +19,7 @@ Welcome to my certifications repository! This space serves as a verified archive
 ### 🎨 Graphic Design & Video Editing
 | Certificate Name | Issuing Organization | Verification Link / Asset |
 | :--- | :--- | :--- |
-| **Graphic Design Mastery** | *[e.g., Coursera / Udemy / Digiskills]* | [View Certificate](./certificates/graphic-design.pdf) |
+| **Graphic Design Mastery** | *[e.g., Coursera / Udemy / Digiskills]* | [View Certificate](.graphic design.pdf) |
 | **Advanced Video Editing & Post-Production** | *[e.g., Adobe / YouTube Academy]* | [View Certificate](./certificates/video-editing.pdf) |
 | **IEEE Leadership & Contribution Award** | **IEEE** | [View Certificate](./certificates/ieee-cohead.pdf) |
 
