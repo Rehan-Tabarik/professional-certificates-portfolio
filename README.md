@@ -1,6 +1,6 @@
 # 📜 Professional Certifications & Leadership Portfolio
 
-Welcome to my certifications repository! This space serves as a verified archive of my professional growth, technical skill sets, and leadership contributions across graphic design, video editing, freelancing, and community management.
+Welcome to my certifications repository! This space serves as a verified archive of my professional growth, technical skill sets, and leadership contributions across graphic design, video editing, freelancing, electronics, and community management.
 
 ---
 
@@ -23,6 +23,11 @@ Welcome to my certifications repository! This space serves as a verified archive
 | **Graphic Design** | **DigiSkills.pk** | Validates advanced skills in visual communication, color theory, typography, and digital branding collateral. | [View Certificate](./graphic%20design.pdf) |
 | **Video Editing** | **DigiSkills.pk** | Covers non-linear video editing, cinematic storytelling, audio syncing, and post-production workflows. | [View Certificate](./vedio%20vlogging.pdf) |
 
+### ⚡ Electronics & Engineering
+| Certificate Name | Issuing Organization | Description | Verification Asset |
+| :--- | :--- | :--- | :--- |
+| **An Introduction to Electronics** | **The Open University (OpenLearn)** | Covers the fundamentals of electronic devices, electrical circuits, signal processing, and system design. Strengthened my foundation in electronics and supports my growing interest in robotics and embedded systems. | [View Certificate](./open%20university%20certificate.pdf) |
+
 ### 🏛️ IEEE & Leadership
 | Certificate Name | Issuing Organization | Description | Verification Asset |
 | :--- | :--- | :--- | :--- |
@@ -36,9 +41,9 @@ Welcome to my certifications repository! This space serves as a verified archive
 ---
 
 ## 🛠️ Tools & Technologies Documented
-* **Design:** Adobe Photoshop, Adobe Illustrator, Canva, Figma
-* **Video Editing:** Adobe Premiere Pro, After Effects, CapCut
-* **Management:** Trello, Slack, Google Workspace, Team Leadership
+* **Design:** Adobe Photoshop, Adobe Illustrator, Canva, Figma  
+* **Video Editing:** Adobe Premiere Pro, After Effects, CapCut  
+* **Electronics:** Circuit Analysis, Signal Processing, Basic Electronics, Embedded Systems  
+* **Management:** Trello, Slack, Google Workspace, Team Leadership  
 
 ---
-
