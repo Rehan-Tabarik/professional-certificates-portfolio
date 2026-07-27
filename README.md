@@ -33,6 +33,7 @@ Welcome to my certifications repository! This space serves as a verified archive
 | Certificate Name | Issuing Organization | Description | Verification Asset |
 | :--- | :--- | :--- | :--- |
 | **An Introduction to Electronics** | **The Open University (OpenLearn)** | Covers the fundamentals of electronic devices, electrical circuits, signal processing, and system design. Strengthened my foundation in electronics and supports my growing interest in robotics, embedded systems, and electrical engineering. | [View Certificate](./open%20university%20certificate.pdf) |
+| **PCB Design Course** | **Simplilearn** | Covers the fundamentals of Printed Circuit Board (PCB) design, including PCB layout principles, component placement, routing techniques, design rule checking (DRC), routing strategies, multilayer PCB concepts, manufacturing considerations, and industry best practices. This course strengthened my practical understanding of electronic hardware design and complements my growing expertise in embedded systems, robotics, and electrical engineering. | [View Certificate](./PCB_Design_Course.pdf) |
 
 ---
 
@@ -67,6 +68,7 @@ Welcome to my certifications repository! This space serves as a verified archive
 - CapCut
 
 ### ⚡ Electronics & Engineering
+- PCB Design
 - Circuit Analysis
 - Signal Processing
 - Basic Electronics
@@ -90,12 +92,12 @@ Welcome to my certifications repository! This space serves as a verified archive
 
 # 🌱 Continuous Learning
 
-I believe that continuous learning is essential for becoming a well-rounded engineer and leader. This repository will continue to grow as I complete new certifications in Electrical Engineering, Robotics, Artificial Intelligence, Embedded Systems, Leadership, and Professional Development.
+I believe that continuous learning is essential for becoming a well-rounded engineer and leader. This repository will continue to grow as I complete new certifications in Electrical Engineering, PCB Design, Robotics, Artificial Intelligence, Embedded Systems, Leadership, and Professional Development.
 
 ---
 
 ## 📬 Connect With Me
 
-Feel free to connect with me on **LinkedIn** and explore my other GitHub repositories showcasing engineering projects, robotics, embedded systems, and software development.
+Feel free to connect with me on **LinkedIn** and explore my other GitHub repositories showcasing engineering projects, PCB design, robotics, embedded systems, and software development.
 
 ⭐ *Thank you for visiting my certifications portfolio!*
