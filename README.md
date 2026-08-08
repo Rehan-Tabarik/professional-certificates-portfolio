@@ -1,6 +1,6 @@
 # 📜 Professional Certifications & Leadership Portfolio
 
-Welcome to my certifications repository! This space serves as a verified archive of my professional growth, technical expertise, and leadership experience across engineering, electronics, graphic design, video editing, freelancing, and team management.
+Welcome to my certifications repository! This space serves as a verified archive of my professional growth, technical expertise, and leadership experience across engineering, electronics, graphic design, video editing, machine learning, freelancing, and team management.
 
 ---
 
@@ -35,6 +35,7 @@ Welcome to my certifications repository! This space serves as a verified archive
 | **An Introduction to Electronics** | **The Open University (OpenLearn)** | Covers the fundamentals of electronic devices, electrical circuits, signal processing, and system design. Strengthened my foundation in electronics and supports my growing interest in robotics, embedded systems, and electrical engineering. | [View Certificate](./open%20university%20certificate.pdf) |
 | **PCB Design Course** | **Simplilearn** | Covers the fundamentals of Printed Circuit Board (PCB) design, including PCB layout principles, component placement, routing techniques, design rule checking (DRC), routing strategies, multilayer PCB concepts, manufacturing considerations, and industry best practices. This course strengthened my practical understanding of electronic hardware design and complements my growing expertise in embedded systems, robotics, and electrical engineering. | [View Certificate](./PCB_Design_Course.pdf) |
 | **Free Embedded Systems Course** | **Simplilearn SkillUp** | Covers the fundamentals of embedded systems, microcontrollers, and hardware-software integration. This course strengthened my understanding of embedded technologies and complements my practical experience with Arduino, robotics, electronics, and electrical engineering. | [View Certificate](./embedded%20system%20certificate.pdf) |
+| **Machine Learning for Beginners** | **Simplilearn SkillUp** | Introduces the fundamental concepts of machine learning, including basic machine learning principles, algorithms, data-driven learning, and the overall machine learning workflow. This course provides a foundation for exploring artificial intelligence and its applications in engineering and technology. | [View Certificate](./ML%20certificate.pdf) |
 
 ---
 
@@ -77,6 +78,12 @@ Welcome to my certifications repository! This space serves as a verified archive
 - Microcontrollers
 - Arduino
 
+### 🤖 Artificial Intelligence & Machine Learning
+- Machine Learning Fundamentals
+- Machine Learning Algorithms
+- Data-Driven Learning
+- Artificial Intelligence Fundamentals
+
 ### 💻 Programming & Simulation
 - C++
 - MATLAB
@@ -95,12 +102,12 @@ Welcome to my certifications repository! This space serves as a verified archive
 
 # 🌱 Continuous Learning
 
-I believe that continuous learning is essential for becoming a well-rounded engineer and leader. This repository will continue to grow as I complete new certifications in Electrical Engineering, PCB Design, Robotics, Artificial Intelligence, Embedded Systems, Leadership, and Professional Development.
+I believe that continuous learning is essential for becoming a well-rounded engineer and leader. This repository will continue to grow as I complete new certifications in Electrical Engineering, PCB Design, Robotics, Artificial Intelligence, Machine Learning, Embedded Systems, Leadership, and Professional Development.
 
 ---
 
 ## 📬 Connect With Me
 
-Feel free to connect with me on **LinkedIn** and explore my other GitHub repositories showcasing engineering projects, PCB design, robotics, embedded systems, and software development.
+Feel free to connect with me on **LinkedIn** and explore my other GitHub repositories showcasing engineering projects, PCB design, robotics, embedded systems, machine learning, and software development.
 
 ⭐ *Thank you for visiting my certifications portfolio!*
