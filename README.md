@@ -34,6 +34,7 @@ Welcome to my certifications repository! This space serves as a verified archive
 | :--- | :--- | :--- | :--- |
 | **An Introduction to Electronics** | **The Open University (OpenLearn)** | Covers the fundamentals of electronic devices, electrical circuits, signal processing, and system design. Strengthened my foundation in electronics and supports my growing interest in robotics, embedded systems, and electrical engineering. | [View Certificate](./open%20university%20certificate.pdf) |
 | **PCB Design Course** | **Simplilearn** | Covers the fundamentals of Printed Circuit Board (PCB) design, including PCB layout principles, component placement, routing techniques, design rule checking (DRC), routing strategies, multilayer PCB concepts, manufacturing considerations, and industry best practices. This course strengthened my practical understanding of electronic hardware design and complements my growing expertise in embedded systems, robotics, and electrical engineering. | [View Certificate](./PCB_Design_Course.pdf) |
+| **Free Embedded Systems Course** | **Simplilearn SkillUp** | Covers the fundamentals of embedded systems, microcontrollers, and hardware-software integration. This course strengthened my understanding of embedded technologies and complements my practical experience with Arduino, robotics, electronics, and electrical engineering. | [View Certificate](./embedded%20system%20certificate.pdf) |
 
 ---
 
@@ -73,6 +74,8 @@ Welcome to my certifications repository! This space serves as a verified archive
 - Signal Processing
 - Basic Electronics
 - Embedded Systems
+- Microcontrollers
+- Arduino
 
 ### 💻 Programming & Simulation
 - C++
